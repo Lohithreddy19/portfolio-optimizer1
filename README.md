@@ -127,9 +127,9 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## 📧 Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
+Your Name - [@Lohithreddy](https://twitter.com/yourhandle)
 
-Project Link: [https://github.com/YOUR_USERNAME/portfolio-optimizer](https://github.com/YOUR_USERNAME/portfolio-optimizer)
+Project Link: [https://github.com/YOUR_USERNAME/portfolio-optimizer](https://github.com/Lohithreddy19/portfolio-optimizer1)
 
 ---
 
